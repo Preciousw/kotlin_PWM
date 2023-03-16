@@ -14,5 +14,5 @@ fun main(args: Array<String>) {
 
     var bmi = (weight)/(height*height)
 
-    println("$stringInput, your BMI is $bmi")
+    println("Your bmi is $bmi")
 }
